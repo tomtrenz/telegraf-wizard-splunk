@@ -9,3 +9,5 @@ yarn-error.log
 licenses.json
 functional-temp
 splunktional-temp
+packages/telegraf-wizard-app/src/main/resources/splunk/bin/*
+!packages/telegraf-wizard-app/src/main/resources/splunk/bin/telegraf-wrapper.py
