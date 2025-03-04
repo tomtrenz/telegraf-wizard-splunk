@@ -20,5 +20,8 @@
   ],
   "engines": {
     "node": ">=14"
+  },
+  "dependencies": {
+    "@splunk/search-job": "^3.1.0"
   }
 }
